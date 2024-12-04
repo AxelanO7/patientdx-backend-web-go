@@ -1,7 +1,7 @@
 package delivery
 
 import (
-	"assyarif-backend-web-go/domain"
+	"patientdx-backend-web-go/domain"
 	"strconv"
 
 	"github.com/asaskevich/govalidator"

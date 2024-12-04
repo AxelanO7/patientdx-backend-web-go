@@ -1,9 +1,9 @@
 package repository
 
 import (
-	"assyarif-backend-web-go/domain"
 	"errors"
 	"fmt"
+	"patientdx-backend-web-go/domain"
 
 	"gorm.io/gorm"
 )

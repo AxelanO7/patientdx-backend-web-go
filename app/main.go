@@ -4,10 +4,10 @@ import (
 	"log"
 	"sync"
 
-	"assyarif-backend-web-go/db"
-	"assyarif-backend-web-go/patient_dx/delivery"
-	"assyarif-backend-web-go/patient_dx/repository"
-	"assyarif-backend-web-go/patient_dx/usecase"
+	"patientdx-backend-web-go/db"
+	"patientdx-backend-web-go/patient_dx/delivery"
+	"patientdx-backend-web-go/patient_dx/repository"
+	"patientdx-backend-web-go/patient_dx/usecase"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"

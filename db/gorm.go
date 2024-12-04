@@ -1,10 +1,10 @@
 package db
 
 import (
-	"assyarif-backend-web-go/domain"
 	"fmt"
 	"log"
 	"os"
+	"patientdx-backend-web-go/domain"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
